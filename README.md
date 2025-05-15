@@ -1,5 +1,5 @@
 ## :sparkles: go-minjung
-
+#### I'm Minjung Bae with a passion for frontend development.
 <!--
 **go-minjung/go-minjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

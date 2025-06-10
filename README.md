@@ -1,16 +1,30 @@
-## :sparkles: go-minjung
-#### I'm Minjung Bae with a passion for frontend development.
-<!--
-**go-minjung/go-minjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 👋 About Me
+기획과 디자인에 관심이 많은 **프론트엔드 개발자**입니다.  
+팀원 간 협업을 중요하게 생각하며, 맡은 일은 기한 내에 최대한 성실히 수행합니다.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+#### 💼 Projects
+
+1. [ZetaWayv] 휠체어 사용자의 안전한 이동을 위한 지도 솔루션, **Mobby**
+    - 서울 약자동행 기술박람회 기업부스 운영 (2023.10)  
+    - RIS 대경권 공공데이터 활용 경진대회 대상 (2023.12)  
+    - PRIME사업단 주관 창업성과 경진대회 최우수상 (2023.12)
+
+2. [KNUS] 실시간 택시 승차 공유 플랫폼, **TAXNA**
+    - 수성미래교육재단 수성인재장학생 스타트업 창업형 수료 (2023.03-2023.12)  
+    - 대구디지털혁신진흥원(DIP) 주관 창업해커톤 BUNNYTHON 4위 (2023.03)  
+    - PRIME사업단 주관 창업성과 경진대회 최우수상 (2024.12)
+
+3. [EZOne] 소규모 사업자를 위한 실시간 재고관리 어플, **EZStock**
+    - SW교육원 주최 창업해커톤 경진대회 우수상 (2025.06)
+
+---
+
+#### 🌱 Activities
+
+- 구름톤 유니브(9oormthonUNIV) 경북대학교 기획 운영진 (2025.03-)  
+- 현대차그룹 H-점프스쿨 10기 장학샘 수료 (2023.02-2024.01)
+
